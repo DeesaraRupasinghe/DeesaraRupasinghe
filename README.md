@@ -1,4 +1,4 @@
-# Hi there. I am Deesara 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName)
+# Hi there. I am Deesara 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DeesaraRupasinghe.repoName)
 
 - 🔭 I am an SE Undergraduate at the University of Colombo and SLIIT Sri Lanka.
 - 🌱 Currently learning: .Net, MERN Stack.
