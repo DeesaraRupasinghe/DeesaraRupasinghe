@@ -1,4 +1,4 @@
-# Hi there. I am Deesara 👋 . Welcome to my Profile!!! 
+# Hi there. I am Deesara 👋 
 
 - 🔭 I am an SE Undergraduate at the University of Colombo and SLIIT Sri Lanka.
 - 🌱 Currently learning: .Net, MERN Stack.
